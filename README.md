@@ -19,3 +19,7 @@ Git version
 ```
 git --version
 ```
+Python version
+```
+python --version
+```
