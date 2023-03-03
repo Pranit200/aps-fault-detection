@@ -1,7 +1,7 @@
 import pymongo
 
 # Provide the mongodb localhost url to connect python to mongodb.
-client = pymongo.MongoClient("mongodb://localhost:27017/neurolabDB")
+client = pymongo.MongoClient("f")
 
 # Database Name
 dataBase = client["neurolabDB"]
